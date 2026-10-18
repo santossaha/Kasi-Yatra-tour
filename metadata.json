@@ -1,0 +1,10 @@
+{
+  "name": "Remix Kashi Yatra - Varanasi Smart Tourist Guide \u0026 Navigation",
+  "description": "Smart, bilingual pedestrian \u0026 driving navigation, interactive heritage map, verified history, and tour planner for exploring Varanasi.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
